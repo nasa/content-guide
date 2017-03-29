@@ -7,6 +7,10 @@ exclude:
 - Gemfile.lock
 - README.md
 - go
+- bin
+- circle.yml
+- package.json
+- npm-debug.log
 
 baseurl: /content-guide
 
