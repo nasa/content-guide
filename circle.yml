@@ -6,6 +6,6 @@ machine:
 
 deployment:
   production:
-    branch: dev
+    branch: master
     commands:
       - ./bin/automated
