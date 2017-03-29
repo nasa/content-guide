@@ -1,37 +1,9 @@
-## 18F Content Guide
+## NASA Content Guide
 
-This is the repository for the [18F Content Guide](https://pages.18f.gov/content-guide/). This guide was developed for 18F employees, but we hope it’s a useful reference for anyone.
+This is the repository for the [NASA Content Guide](https://bruffridge.github.io/content-guide/). This guide was developed for NASA employees, but we hope it’s a useful reference for anyone. It is a fork of the [18F Content Guide](https://pages.18f.gov/content-guide/)
 
-For a detailed introduction, see [how to use this guide](https://pages.18f.gov/content-guide/how-to-use-this-guide/).
-
-## History
-
-18F's Content Guild ([#g-content](https://18f.slack.com/archives/g-content)) maintains this guide.
-
-We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-design), and we’d like to thank their team for championing plain language and information accessibility. Over time, we've expanded the guide to cover more topics, reorganized things, and moved the site from 18F Pages to [Federalist](https://github.com/18F/federalist). This guide is a work in progress, and we'll continue refining it over time.
-
-### Contributors
-
-* [Emileigh Barnes](https://github.com/emileighoutlaw) - Guild Lead
-* [Nicole Fenton](https://github.com/nicoleslaw)
-* [Andre Francisco](https://github.com/awfrancisco)
-* [Britta Gustafson](https://github.com/brittag)
-* [James Hupp](https://github.com/jameshupp)
-* [Andrew Maier](https://github.com/andrewmaier)
-* [Corey Mahoney](https://github.com/coreycaitlin)
-* [Kate Saul](https://github.com/kategarklavs) - Guild Lead
-* [Will Slack](https://github.com/wslack)
-* [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
-* [Atul Varma](https://github.com/toolness)
-
-### Running the site
-
-The 18F Content Guide runs on [Jekyll](http://jekyllrb.com/). To run it locally:
-
-1. Clone the repository.
-1. Get [Jekyll] and the necessary dependencies: `bundle install`
-1. Run the web server with `./go serve` (or `jekyll serve` if you have Jekyll installed globally)
-1. Visit the local site at [http://localhost:4000](http://localhost:4000)
+### Editing the Guide
+The pages in the guide are broken into four sections corresponding to four folders in the [```_pages```](https://github.com/bruffridge/content-guide/tree/master/_pages) folder. The markdown files within each section can be edited using GitHub. If you are new to editing files in GitHub [this guide](https://help.github.com/articles/editing-files-in-your-repository/) should help. If you are new to using markdown [this guide](https://guides.github.com/features/mastering-markdown/) should help. When you commit your changes to the master branch CircleCI will automatically push your changes to the [site on GitHub Pages](https://bruffridge.github.io/content-guide/). It may take up to a few minutes for your changes to be viewable on the site.
 
 ### Public domain
 
