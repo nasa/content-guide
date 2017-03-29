@@ -11,6 +11,13 @@ exclude:
 - circle.yml
 - package.json
 - npm-debug.log
+- ".ruby-version"
+- ".sass-cache"
+- LICENSE.md
+- manifest.yml
+- node_modules
+- vendor
+- gulpfile.js
 
 baseurl: /content-guide
 
