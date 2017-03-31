@@ -19,8 +19,8 @@ body{
 	background: #f8f8f8;
 }
 
-a{  color: #006fbe; text-decoration: ;}
-a:hover{ color: #00aedf; }
+a{  color: #105bd8; text-decoration: ;}
+a:hover{ color: #0b3d91; }
 
 a:visited{  color: #8d0058; }
 
@@ -148,8 +148,8 @@ img { max-width: 100%; }
 
 .site-header{
 	padding: 4px 0 6px;
-	border-bottom: 1px solid #006d47;
-	background: #22425a;
+	border-bottom: 1px solid #323a45;
+	background: #061f4a;
 	color: #cef9ff;
 }
 
@@ -174,7 +174,7 @@ img { max-width: 100%; }
 
 .site-header form .field{
 	position: relative;
-	background-color: #0b2136;
+	background-color: #fff;
 	border-radius: 99em;
 }
 
@@ -201,7 +201,7 @@ html body .site-header form input{
 	font-size: 18px !important;
 	padding: 0;
 	padding-left: 28px !important;
-	color: #aaa;
+	color: #323a45;
 }
 
 *::-webkit-input-placeholder{
@@ -240,7 +240,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
     bottom: 9px;
     top: auto;
     left: 10px;
-    color: white;
+    color: #212121;
 	position: absolute;
 	margin-top: -0.5em;
 }
@@ -249,7 +249,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 .search-interface form .is-focused input,
 .site-header form .is-focused label::before,
 .search-interface form .is-focused label::before{
-	color: white;
+	color: #212121;
 }
 
 .site-header form button{
@@ -694,7 +694,7 @@ a[id]{
 	font-size: 21px;
 	line-height: 1.3em;
 	font-family: Merriweather, Georgia;
-	color: #1e8a82;
+	color: #0b3d91;
 	max-width: 640px;
 	margin: 28px auto 16px;
 }
@@ -1022,7 +1022,7 @@ a[id]{
 	}
 
 	.layout-table-of-contents .site-header{
-		color: #cef9ff;
+		color: #9bdaf1;
 		padding: 1.4em 0 1.8em;
 	}
 
