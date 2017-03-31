@@ -15,7 +15,6 @@ body{
 	font-family: Source Sans Pro, Verdana, sans-serif;
 	font-size: 18px;
 	font-weight: 400;
-	color: #404040;
 	background: #f8f8f8;
 }
 
@@ -1117,7 +1116,6 @@ a[id]{
 	margin-bottom: 0.4em;
 	border-top: 0.2em solid #f2f0e3;
 	margin-top: 1em;
-	color: #36514a;
 }
 
 .layout-table-of-contents ol li.best-practices li{
