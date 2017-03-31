@@ -1,6 +1,6 @@
 markdown: kramdown
-title: 18F Content Guide
-description: How to plan, write, and manage content at 18F.
+title: NASA Content Guide
+description: How to plan, write, and manage content at NASA.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -13,7 +13,6 @@ exclude:
 - npm-debug.log
 - ".ruby-version"
 - ".sass-cache"
-- LICENSE.md
 - manifest.yml
 - node_modules
 - vendor
@@ -35,9 +34,9 @@ author:
   url: https://18f.gsa.gov
 
 github:
-  organization: 18F
+  organization: bruffridge
   repository: content-guide
-  default_branch: 18f-pages
+  default_branch: master
 
 collections:
   pages:
@@ -155,11 +154,11 @@ navigation:
     internal: true
 
 repos:
-- name: 18F Content Guide
+- name: NASA Content Guide
   description: Main repository
-  url: https://github.com/18F/content-guide
+  url: https://github.com/bruffridge/content-guide
 
-google_analytics_ua: UA-48605964-19
+# google_analytics_ua: UA-48605964-19
 
 
 # Configuration for jekyll_pages_api_search plugin gem.
