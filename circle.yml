@@ -6,7 +6,7 @@ machine:
 
 test:
   post:
-    - bundle exec jekyll build
+    - bundle exec jekyll build -d _site/content-guide
     - bundle exec htmlproofer ./_site --url-ignore "/group.calendar.google.com/" --disable-external
 
 deployment:
