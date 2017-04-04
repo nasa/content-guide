@@ -14,11 +14,9 @@ Using this guide can help content designers write in a consistent manner so that
 Many resources were used to prepare this guide and special thanks are given to 18F fro their contribution in preparing this guide. 18F is a digital service agency that supports Federal agencies in improving the way they deliver digital services and technology products.
 
 
-## Have you ever wondered . . .
+## How this guide is structured 
 
-This guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word _federal_, for instance, or when you’re wondering how to create a friendly, informational tone.
-
-To this end, we’ve structured the guide into descriptively named sections. Find the topic you’re looking for in our table of contents, or search by keyword. We aren’t opposed if you’d like to read this guide start to finish, of course.
+This guide is structured into descriptively named sections. You can find the topic you are looking for either in the table of contents, or you can search by keyword. Find the topic you’re looking for in the table of contents, or search by keyword. We aren’t opposed if you’d like to read this guide start to finish, of course.
 
 If you have any suggestions or want to get involved, please chat us in [#g-content](https://18f.slack.com/archives/g-content) or [create an issue in GitHub](https://github.com/18F/content-guide/issues/new).
 
