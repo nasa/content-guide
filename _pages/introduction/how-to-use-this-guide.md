@@ -19,7 +19,7 @@ Many resources were used to prepare this guide and special thanks are given to 1
 The table of contents is organized by topic sections, or you can search by keyword. We aren’t opposed if you’d like to read this guide from start to finish, of course.
 
 !!! NEED GLENN INFO HERE 
-If you have a suggestion or would like to share a comment about this guide, please chat us in [#g-content](https://18f.slack.com/archives/g-content) or [create an issue in GitHub](https://github.com/18F/content-guide/issues/new).
+If you have a suggestion or would like to share a comment about this guide, please chat us in [#g-content](https://18f.slack.com/archives/g-content) or [create an issue here](https://github.com/bruffridge/content-guide/issues/new).
 
 ## If you work at another Federal Agency 
 
