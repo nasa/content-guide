@@ -2,22 +2,20 @@
 title: How to use this guide
 ---
 
-The NASA Content Guide is was developed for those who write web content, especially for NASA external websites 
+The NASA Content Guide is for those who write web content, especially for NASA external websites. 
 
-## Introduction
+## Why this guide was developed 
 
-This guide helps writers create content that’s easy to understand and can be used as a reference on an as-needed basis.
+This guide helps writers create content that’s easy to understand and can be used as a reference on an as-needed basis.  
 
-Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly tone. Sometimes a government website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
+Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Sometimes a government website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
+This guide takes that frustration into account.  
 
-This guide takes that frustration into account, as well as several commonly supported guidelines about writing for the web.
-
-Using this guide can help content designers benefit from our experience to date, incorporate user feedback into the editorial process, and build trust by communicating in a consistent manner. Many resources were used to prepare this guide and special thanks are given to 18F, 
-a digital service agency that supports Federal agencies in improving the way they deliver digital services and technology products.
+Using this guide can help content designers benefit from our experience to date, incorporate user feedback into the editorial process, and build trust by communicating in a consistent manner. Many resources were used to prepare this guide and special thanks are given to 18F fro their contribution in preparing this guide. 18F is a digital service agency that supports Federal agencies in improving the way they deliver digital services and technology products.
 
 
 
-## If you work at NASA
+## Have you ever wondered . . .
 
 This guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word _federal_, for instance, or when you’re wondering how to create a friendly, informational tone.
 
