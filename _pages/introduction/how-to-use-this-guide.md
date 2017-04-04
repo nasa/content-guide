@@ -2,11 +2,9 @@
 title: How to use this guide
 ---
 
-The NASA Content Guide is for those who write web content, especially for NASA external websites. 
-
 ## Why this guide was developed 
 
-This guide helps writers create content that’s easy to understand and can be used as a reference on an as-needed basis.  
+The NASA Content Guide was developed to to help NASA web content writers to create information that’s easy to understand and can be used as a reference on an as-needed basis.  
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Sometimes a government website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
 This guide takes that frustration into account.  
