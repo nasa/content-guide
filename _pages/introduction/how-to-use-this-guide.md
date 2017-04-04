@@ -23,6 +23,6 @@ If you have a suggestion or would like to share a comment about this guide, plea
 
 ## If you work at another Federal Agency 
 
-As a work of the federal government, this project is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+As a work of the federal government, the NASA Content Guide is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 
