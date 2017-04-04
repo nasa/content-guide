@@ -4,7 +4,7 @@ title: How to use this guide
 
 ## Introduction  
 
-The NASA Content Guide was developed to help NASA web content writers create information that’s easy to understand, find, and access. 
+The NASA Content Guide is designed to help NASA web content writers create information that’s easy to understand, find, and access. 
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Sometimes a government website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
 Or have you asked yourself, "Do I capitalize that word?," or "How do I write in the active voice?," or similar questions? Then this guide is for you. 
