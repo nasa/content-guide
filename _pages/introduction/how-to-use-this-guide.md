@@ -4,13 +4,14 @@ title: How to use this guide
 
 ## Why this guide was developed 
 
-The NASA Content Guide was developed to to help NASA web content writers to create information that’s easy to understand and can be used as a reference on an as-needed basis.  
+The NASA Content Guide was developed to to help NASA web content writers create information that’s easy to understand and can be used on an as-needed basis.  
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Sometimes a government website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
 This guide takes that frustration into account.  
 
-Using this guide can help content designers benefit from our experience to date, incorporate user feedback into the editorial process, and build trust by communicating in a consistent manner. Many resources were used to prepare this guide and special thanks are given to 18F fro their contribution in preparing this guide. 18F is a digital service agency that supports Federal agencies in improving the way they deliver digital services and technology products.
+Using this guide can help content designers write in a consistent manner so that although many different topics are discussed and written by different authors, NASA's external websites will appear seamless to our readers.
 
+Many resources were used to prepare this guide and special thanks are given to 18F fro their contribution in preparing this guide. 18F is a digital service agency that supports Federal agencies in improving the way they deliver digital services and technology products.
 
 
 ## Have you ever wondered . . .
