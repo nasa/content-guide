@@ -4,19 +4,19 @@ title: How to use this guide
 
 ## Why this guide was developed 
 
-The NASA Content Guide was developed to help NASA web content writers create information that’s easy to understand and can be used as a reference.   
+The NASA Content Guide was developed to help NASA web content writers create information that’s easy to understand. 
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Sometimes a government website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
-This guide takes that frustration into account.  
+This guide takes that these things into account.  
 
-Using this guide can help content designers write in a consistent manner so that although many different topics are discussed and written by different authors, NASA's external websites will appear seamless to our readers.
+Using this guide can help you write in a consistent manner so that although many different topics are discussed and probably written by different authors, NASA's external websites will appear seamless to our readers.
 
-Many resources were used to prepare this guide and special thanks are given to 18F for their contribution in preparing this guide. 18F is a digital service agency that supports Federal agencies in improving the way they deliver digital services and products.
+Many resources were used to prepare this guide and special thanks are given to 18F for their contributions. 18F is a digital service agency that supports Federal agencies in improving the way they deliver digital services and products.
 
 
 ## How this guide is structured 
 
-This guide is structured into descriptively named sections. You can find the topic you are looking for either in the table of contents, or you can search by keyword. We aren’t opposed if you’d like to read this guide from start to finish, of course.
+This guide is organized by topic sections via the table of contents, or you can search by keyword. We aren’t opposed if you’d like to read this guide from start to finish, of course.
 
 If you have any suggestions or want to get involved, please chat us in [#g-content](https://18f.slack.com/archives/g-content) or [create an issue in GitHub](https://github.com/18F/content-guide/issues/new).
 
