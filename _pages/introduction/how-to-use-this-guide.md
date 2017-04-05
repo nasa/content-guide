@@ -2,9 +2,9 @@
 title: How to use this guide
 ---
 
-## Introduction 
+## Welcome to the NASA Content Guide 
 
-The NASA Content Guide is designed to help NASA web content writers create information that’s easy to understand, find, and access. 
+The NASA Content Guide is designed to help web content writers create information that’s easy to understand, find, and access. 
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Or the website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
 As a web writer, perhaps you have wondered, "Do I capitalize that word?," or "How do I write in the active voice?," or similar questions? This guide takes these things into account and also references other styleguides and best practices for you to explore.  
@@ -19,7 +19,7 @@ The table of contents is organized by topic sections, or you can search by keywo
 
  If you have a suggestion or would like to share a comment about this guide, please [contact us](https://github.com/bruffridge/content-guide/issues/new).
 
-## If you work at another Federal Agency 
+## If you work at another federal agency 
 
 As a work of the federal government, the NASA Content Guide is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
