@@ -25,7 +25,7 @@ Capitalize a personal title when it precedes a name. For example, *Director Lope
 
 Do not capitalize a personal title that succeeds a name. For example, do not write *Lopez, the Director, got the approval*.
 
-When the word "the" appears in front of the job title, do not capitalize. For example, *the director got approval* or *the director, Luis Lopez, got approval*.
+Do not capitalize the personal title when the word "the" appears in front of it. For example, *the director got approval* or *the director, Maria Lopez, got approval*.
 
 Whenever possible, keep titles gender neutral. For example, use *firefighter* to *fireman* and *chairperson* to *chairman*.
 
