@@ -21,7 +21,9 @@ section.
 
 ## Personal titles
 
-Don’t capitalize personal titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
+Capitalize a personal title when it precedes a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
+
+Do not capitalize a personal title that succeeds a name. For example, do not write *Lopez, the Director, got approval*.
 
 ## Headings
 
