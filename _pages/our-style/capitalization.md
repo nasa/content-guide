@@ -27,7 +27,7 @@ Do not capitalize a personal title that succeeds a name. For example, do not wri
 
 Do not capitalize the personal title when the word "the" appears in front of it. For example, *the director got the approval* or *the director, Maria Lopez, got the approval*.
 
-Whenever possible, keep titles gender neutral. For example, use *firefighter* to *fireman* and *chairperson* to *chairman*.
+Whenever possible, keep titles gender neutral. For example, use *firefighter* instead of *fireman* and use *chairperson* instead of *chairman*.
 
 ## Headings
 
