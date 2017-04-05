@@ -5,9 +5,9 @@ redirect_from:
   - /how-users-read/
 ---
 
-Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.
+Below you’ll find recommendations on how to keep your online readers in mind when writing and editing.  (17 words)
 
-## Readers scan when they can - Post your most important information at the top
+## Post your most important information at the top
 
 Online readers tend to scan text until they find the information they need. No matter how carefully you craft your content, most people will only read [25 percent of it](https://www.nngroup.com/articles/website-reading/). This statistic isn’t meant to dishearten; rather, we believe it underscores the importance of getting content right.
 
