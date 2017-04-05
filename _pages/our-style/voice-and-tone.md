@@ -14,7 +14,7 @@ Our **voice** is our unique personality. It can be helpful to think of voice as 
 
 ## Our voice
 
-At 18F, we like to communicate in a friendly, straightforward way. We consider our voice to be:
+It is important to communicate in a friendly, straightforward way. We consider our voice to be:
 
 * Authoritative
 * Conversational
@@ -24,7 +24,7 @@ At 18F, we like to communicate in a friendly, straightforward way. We consider o
 
 We believe that government communication can — and should — be fun and easy to read, and our voice represents this.
 
-Here are a few sentences, taken from the [18F Content Guide](https://pages.18f.gov/content-guide/), that exemplify our voice:
+Here are a few sentences, taken from the [18F Content Guide](https://pages.18f.gov/content-guide/), that exemplify 18F's voice:
 
 > We created this guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word _federal_, for instance, or when you’re wondering how to create a friendly, informational tone.
 
