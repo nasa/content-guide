@@ -7,9 +7,9 @@ title: How to use this guide
 The NASA Content Guide is designed to help web content writers create information that’s easy to understand, find, and access. 
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Or the website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
-As a web writer, perhaps you have wondered, "Do I capitalize that word?," or "How do I write in the active voice?," or similar questions? This guide takes these things into account and also references other styleguides and best practices for you to explore.  
+As a writer, have you ever wondered, "Do I capitalize that word?" or "How do I write in the active voice?" or similar questions? This guide takes these things into account and also references other styleguides and best practices for you to explore.  
 
-Using the this guide can help content designers to write in a consistent manner so that although different topics are discussed and probably written by different authors, NASA's external websites will appear seamless to your readers.
+Using the this guide can help you to write in a consistent manner so that although different topics are discussed and probably written by different authors, NASA's external websites will appear seamless to your readers.
 
 Many resources were used to prepare this guide and special thanks are given to 18F for their contributions. 18F is a digital service agency that supports Federal agencies in improving the way they deliver digital services and products.
 
