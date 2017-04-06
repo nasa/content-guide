@@ -2,7 +2,7 @@
 title: How to use this guide
 ---
 
-## Welcome to the NASA Content Guide 
+## 
 
 The NASA Content Guide is designed to help web content writers create information that’s easy to understand, find, and access. 
 
