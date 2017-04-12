@@ -5,7 +5,7 @@ redirect_from:
   - /how-users-read/
 ---
 
-Below you’ll find recommendations on how to keep your online readers in mind when writing and editing.  (17 words)
+Below you’ll find recommendations on how to keep your online readers in mind when writing and editing.  
 
 ## Post your most important information at the top
 
