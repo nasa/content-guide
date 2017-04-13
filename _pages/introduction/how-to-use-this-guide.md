@@ -2,8 +2,6 @@
 title: How to use this guide
 ---
 
-## 
-
 The NASA GRC Content Guide is designed to help web content writers create information that’s easy to understand, find, and access. 
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Or the website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
