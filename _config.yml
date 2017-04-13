@@ -154,7 +154,7 @@ navigation:
     internal: true
 
 repos:
-- name: NASA Content Guide
+- name: NASA GRC Content Guide
   description: Main repository
   url: https://github.com/bruffridge/content-guide
 
