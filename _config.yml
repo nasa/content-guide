@@ -1,6 +1,6 @@
 markdown: kramdown
-title: NASA Content Guide
-description: How to plan, write, and manage content at NASA.
+title: NASA GRC Content Guide
+description: How to plan, write, and manage content at NASA GRC.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
