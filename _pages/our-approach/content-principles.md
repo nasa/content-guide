@@ -36,4 +36,4 @@ Write a draft, test it out, gather feedback, and keep refining.
 
 ---
 
-_We drew from multiple sources to develop this. Thanks to [GDS](https://www.gov.uk/design-principles), [MailChimp](http://styleguide.mailchimp.com/), and [Facebook](https://www.facebook.com/design/) for inspiration._
+_Multiple sources were used to develop this page. Thanks to [GDS](https://www.gov.uk/design-principles), [MailChimp](http://styleguide.mailchimp.com/), and [Facebook](https://www.facebook.com/design/) for inspiration._
