@@ -31,7 +31,7 @@ Good places to search for public domain (CC0) images:
 * [Flickr](https://www.flickr.com/search/?text=cats&license=8) (select “U.S. Government works” or “No known copyright restrictions” from the top left drop down)
 * [Wikimedia commons](https://commons.wikimedia.org/wiki/Category:Public_domain)
 
-If you do use copyrighted images:
+If you use copyrighted images:
 
 * Try to find use one with few restrictions on reuse like a [Creative Commons Attribution license](http://creativecommons.org/licenses/#the-licenses).
 * Get permission from the copyright holder.
