@@ -2,7 +2,7 @@
 title: Technical and interface writing
 ---
 
-At 18F, we often write technical documentation, guides, forms, and interface messages. In most of these cases, it’s safe to say the reader is learning something new or troubleshooting. These guidelines will help you write clear, concise instructions, which will provide your reader with the best possible experience.
+When writing technical documentation, guides, forms, and interface messages, in most of these cases, it’s safe to say the reader is learning something new or troubleshooting. These guidelines will help you write clear, concise instructions, which will provide your reader with the best possible experience.
 
 ## Basics
 
@@ -100,7 +100,7 @@ Use clear verbs to tell readers how to interact with interface elements:
 * _Click_ or _tap_ buttons.
 * _Follow_ or _open_ links.
 
-In the 18F Handbook, we emphasize the name of the interface label like so:
+An interface label can be emphasized like so:
 
 > 1. In the **File** menu, choose **Save**.  
 > 2. Select **I agree**.  
