@@ -5,11 +5,11 @@ permalink: /license
 
 This content guide is in the public domain within the United States.
 
-Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+Additionally, copyright and related rights are waived based on [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 ## No copyright
 
-We dedicate this work to the public domain by waiving our rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+Because this content guide is in the public domain, you may copy, modify, distribute, and use, even for commercial purposes, all without asking permission.
 
 ## Other information
 
