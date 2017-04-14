@@ -19,6 +19,7 @@ As we created this guide, we also referred to these resources:
 * [Diversity Style Guide](http://www.diversitystyleguide.com/)
 * [GLAAD Media Reference Guide](http://www.glaad.org/reference)
 * [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
+* [NASA Style Guide](https://www.grc.nasa.gov/apt/corerespondence-information-and-links/)
 
 ## Related links
 
