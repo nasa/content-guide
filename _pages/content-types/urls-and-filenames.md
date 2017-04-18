@@ -202,20 +202,20 @@ Some examples:
 
 ### Changing subdomains
 
-If we changed our name from 18F to 19G, we would change our domain, so
-this page would be located at
-`https://pages.19g.gov/content-guide/urls-and-filenames/`. We would keep
-the `18f.gov` domain running, but all it would do would redirect
+If the agency 18F changed their name from 18F to 19G, they would change their domain, so
+the new name for their page would be located at
+`https://pages.19g.gov/content-guide/urls-and-filenames/`. They would keep
+the `18f.gov` domain running, but it would redirect
 everything to `19g.gov`. Users who entered the old URL would be
-redirected and might not even notice the URL change.
+redirected and might not notice the URL change.
 
-If we decide to eliminate the pages subdomain and put this directly on
-`18f.gov`, we would do essentially the same thing, keeping this
+If they decide to eliminate the pages subdomain and put this directly on
+`18f.gov`, they would do essentially the same thing, keeping this
 subdomain and adding a rule to redirect to the same path on `18f.gov`.
 
 ### Changing paths
 
-If we produce lots and lots of content in the future, it might become
+If, for example, 18F produce lots and lots of content in the future, it might become
 sensible to change our path to reflect this, and we might want to have a
 guides level, so that the new URL for this page would be:
 `https://pages.18f.gov/guides/content-guide/urls-and-filenames/`. In
