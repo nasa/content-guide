@@ -241,7 +241,7 @@ and it’s better to have long descriptive filenames than short obscure
 ones. `summary-of-pay-gap-findings.pdf` is better than `paygap.pdf` or
 `smmrypgpfnds.pdf`.
 
-If the file content is based on a date or time, include that: the 1998
+If the file content is based on a date or time, include that; the 1998
 report for an organization should have `1998` in the filename, a
 February issue of a magazine should have the year and the month, and a
 PDF of a daily newspaper should have year, month, and date. When
