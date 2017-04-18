@@ -354,6 +354,8 @@ This has an added benefit of improving search results for sighted users.
 
 ## Screen reader-only text
 
+Screen readers are audio interfaces. Rather than displaying web content visually for users in a "window" or screen on the monitor, screen readers convert text into synthesized speech so that users can listen to the content. A person using a screen reader is referred to as a screen reader user.
+
 In some situations, descriptive links may be overly verbose or redundant for
 sighted users. Here’s an example from the [betaFEC site][]:
 
