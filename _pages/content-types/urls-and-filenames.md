@@ -215,7 +215,7 @@ subdomain and adding a rule to redirect to the same path on `18f.gov`.
 
 ### Changing paths
 
-If, for example, 18F produces lots and lots of content in the future, it might become
+If, for example, 18F produces lots of content in the future, it might become
 sensible to change the path to reflect this, and they might want to have a
 guides level, so that the new URL for this page would be:
 `https://pages.18f.gov/guides/content-guide/urls-and-filenames/`. In
