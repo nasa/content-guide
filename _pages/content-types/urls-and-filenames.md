@@ -2,7 +2,7 @@
 title: URLs and filenames
 ---
 
-## Creating URLs   test test test
+## Creating URLs   
 
 URLs should be short, memorable, easy to type, and well-structured.
 Your control over your URL may be limited, but you should do what you can
@@ -215,17 +215,17 @@ subdomain and adding a rule to redirect to the same path on `18f.gov`.
 
 ### Changing paths
 
-If, for example, 18F produce lots and lots of content in the future, it might become
-sensible to change our path to reflect this, and we might want to have a
+If, for example, 18F produces lots and lots of content in the future, it might become
+sensible to change the path to reflect this, and they might want to have a
 guides level, so that the new URL for this page would be:
 `https://pages.18f.gov/guides/content-guide/urls-and-filenames/`. In
-this case, we would add a rule that redirects everything starting with
+this case, they would add a rule that redirects everything starting with
 `/content-guide/` to `/guides/content-guide/`.
 
 This also means that URLs, and parts of URLs, should not be re-used.
-Once we use `/content-guide/` to refer to this guide, we can no longer
-decide in future to use `/content-guide/` as the location for something
-else, even if we later change the URL for this guide.
+Once `/content-guide/` is used to refer to the guide, they can no longer
+use `/content-guide/` as the location for something
+else in the future, even if they later change the URL for their guide.
 
 ## Creating filenames
 
