@@ -45,4 +45,4 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **user-centered design**
 - **Wi-Fi**
 
-For more NASA terminology, refer to the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx).
+For more NASA terminology, please refer to the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx).
