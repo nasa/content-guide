@@ -32,10 +32,9 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **open source**, **open source software**
 - **percent** is preferred more than the “%” symbol. For example, _10 percent of respondents_
 - **p.m.**
-- **Scrum** should be used to refer to the set of practices for the agile method. We don't use that term for the daily meetings and instead use _daily standup_.
 - **startup**
 -  States:
-    -   Spell out names. For example, _Mississippi_.
+    -   Spell out names. For example, _Mississippi_. 
     -   Used alone, “state” should be lowercase. For example, _All 50 states responded._
     -   When used with a city, spell out the name of the state.
 - **tech** is an acceptable shortening of _technology_. In formal situations, use the full word.
@@ -45,3 +44,5 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **U.S.**, not "US" or "USA"
 - **user-centered design**
 - **Wi-Fi**
+
+For more NASA terminology, vist the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx)
