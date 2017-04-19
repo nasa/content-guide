@@ -8,6 +8,8 @@ Use relevant photos, graphics, and other visual elements when they clarify what 
 * Address the user: Focus on illustrating or drawing attention to specific points you want them to understand.
 * Be concise: Don’t use numerous or complex images when one or two simple ones will do.
 * Be conscious: Consider how your image choices include or exclude.
+ 
+Visit the [NASA Comm Guidelines](http://communications.nasa.gov/content/nasa-comm-guidelines) for more information regarding NASA graphics. 
 
 ## Common uses of imagery at 18F
 
