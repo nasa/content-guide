@@ -39,7 +39,7 @@ Headlines, page titles, subheads and similar content should follow sentence case
 
 See also: information about [optimizing headings](../headings-and-titles/).
 
-## Capitalization of frequently used words at NASA 
+## NASA's frequently used words 
 
 For a listing of NASA's frequently used words that should or should not be capitalized, please refer to the excerpt taken from the NASA Procedural Requirements NPR 1450.10, Appendix H. [Capitalization](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
 
