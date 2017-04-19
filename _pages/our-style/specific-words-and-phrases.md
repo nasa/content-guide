@@ -46,3 +46,4 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **Wi-Fi**
 
 For more NASA terminology, please refer to the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx).
+[test this link](NASA Stylebook Rev 6 - March 2016.pdf)
