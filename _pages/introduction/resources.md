@@ -20,7 +20,8 @@ As we created this guide, we also referred to these resources:
 * [GLAAD Media Reference Guide](http://www.glaad.org/reference)
 * [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
 * [NASA Style Guide](https://www.grc.nasa.gov/apt/correspondence-information-and-links/)
-* [NASA Comm Guidelines](http://communications.nasa.gov/content/nasa-comm-guidelines)
+* [NASA Communications Standards](https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=1450&s=10D)
+* [NASA Graphics Standards](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA_Graphics_Standards_v3-TAGGED-v3.pdf)
 
 
 
