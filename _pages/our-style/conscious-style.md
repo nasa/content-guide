@@ -33,6 +33,6 @@ Don’t use women or older relatives as substitute for _novice_ or _beginner_. F
 
 ## For more NASA specific information
 
-For information on organized writing, compact writing, tone, active voice, using action verbs, using plain language words, acronymns, and more, please refer to the excerpt taken from the [NASA Procedural Requirements NPR 1450.10, Chapter 2](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=Chapter2)document.
+For information on organized writing, compact writing, tone, active voice, using action verbs, using plain language words, acronymns, and more, please refer to the excerpt taken from the NASA Procedural Requirements NPR 1450.10, [Chapter 2. NASA Writing Standards](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=Chapter2) document.
 
 
