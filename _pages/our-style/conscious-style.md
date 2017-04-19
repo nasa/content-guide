@@ -30,3 +30,9 @@ Be careful with _Americans_ or _the American public_. These terms are [ambiguous
 Make sure text is gender neutral wherever possible. Use _they_, _them_, and _their_. Avoid words and phrases that indicate gender bias, such as lengthy and irrelevant descriptions of appearance.
 
 Don’t use women or older relatives as substitute for _novice_ or _beginner_. For example, don’t say something is [so simple your mother can use it](http://geekfeminism.wikia.com/wiki/So_simple,_your_mother_could_do_it).
+
+## For more NASA specific information
+
+For information on organized writing, compact writing, tone, active voice, using action verbs, using plain language words, acronymns, and more, please refer to the excerpt taken from the [NASA Procedural Requirements NPR 1450.10, Chapter 2](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=Chapter2)document.
+
+
