@@ -17,8 +17,12 @@ The table of contents is organized by topic sections, or you can search by keywo
 
 If you have a suggestion or would like to share a comment about this guide, please [contact us](https://github.com/bruffridge/content-guide/issues/new).
 
+
 ## If you work at another federal agency 
 
 As a work of the federal government, the NASA GRC Content Guide is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 
+## If you do not work at NASA
+
+ Some links to NASA websites within this document may not be accessible to other federal agencies or the public.
