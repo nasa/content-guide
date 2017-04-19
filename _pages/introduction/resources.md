@@ -7,7 +7,7 @@ We adapted this guide from the work of [GOV.UK](https://www.gov.uk/guidance/cont
 
 ## Style guides
 
-We generally follow [AP style](https://www.apstylebook.com/) unless otherwise noted.
+We generally follow [AP style](https://www.apstylebook.com/) unless otherwise noted. If there is a difference in addressing an item between the AP style and NASA style, use the the NASA style.
 
 As we created this guide, we also referred to these resources:
 
