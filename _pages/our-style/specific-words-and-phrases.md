@@ -46,7 +46,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **user-centered design**
 - **Wi-Fi**
 
-For more NASA terminology, please refer to the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx).
+For more proper use of NASA terminology, please refer to the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx).
 
 For a listing of NASA compound words, please refer to the excerpt taken from the NASA Procedural Requirements NPR 1450.10, Appendix G. [Compound Words](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixG).
 
