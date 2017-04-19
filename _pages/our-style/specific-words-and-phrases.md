@@ -28,7 +28,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **internet**
 - **JavaScript**
 - **kanban**
-- **login** when used as noun, for example, _I forgot my login name and password_, or when used as an adjective, for example _Make sure the login page is 508 complaint._ **log in** when used as a verb, for example, _Log in to access your calendar._
+- **login** when used as noun, for example, _I forgot my login name and password_, or when used as an adjective, for example _Make sure the login page is 508 compliant._ **log in** when used as a verb, for example, _Log in to access your calendar._
 - **open source**, **open source software**
 - **percent** is preferred more than the “%” symbol. For example, _10 percent of respondents_
 - **p.m.**
