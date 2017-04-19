@@ -41,5 +41,5 @@ See also: information about [optimizing headings](../headings-and-titles/).
 
 ## Capitalization of frequently used words at NASA 
 
-For more information, please visit (https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
+For information on this topic, please refer to the excerpt taken from the NASA Procedural Requirements NPR 1450.10, Appendix H. Capitalization](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
 
