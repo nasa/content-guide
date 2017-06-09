@@ -44,3 +44,13 @@ See also: information about [optimizing headings](../headings-and-titles/).
 
 For a listing of NASA's frequently used words that should or should not be capitalized, please refer to the excerpt taken from the NASA Procedural Requirements NPR 1450.10, Appendix H. [Capitalization](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
 
+Please note:
+The NPR refers to NASA’s “Government” style, which we do not follow 100% for communication products or platforms, such as for a Glenn website.  If you come across a difference, always go with the NASA Stylebook or the AP Stylebook recommendation. One example is the word “center.” 
+
+For example, using the NPR style for a written memo, one would write:
+_Our goal for the Center is to reach $400,000 for the Combined Federal Campaign._
+
+But, the same sentence on a Glenn website would be written:
+_Our goal for the center is to reach $400,000 for the Combined Federal Campaign._
+
+
