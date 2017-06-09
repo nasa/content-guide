@@ -11,7 +11,7 @@ Creating trustworthy internal and external communications relies, to a large ext
 - Do not capitalize _agile,_ unless it is the first word of a sentence
 - Do not capitalize _open source,_ unless it is the first word of a sentence
 - Do not capitalize _federal_ or _government_, unless it is the first word in a sentence
-- Do not capitalize the words _agency_ or _center_ unless used as part of the full name of an agency or center or another proper noun *(see the Please note section below)*
+- Do not capitalize the words _agency_ or _center_ unless used as part of the full name of an agency or center or another proper noun *(see the **Please note** section below)*
 
 When you're deciding whether to capitalize noun phrases, keep in mind that in English, title case is often a marker of formality. Using it judiciously can help clarify that you're speaking about a specific, official thing (such as a form, office, or person). Implying formality where it doesn’t belong or exist, can cause cognitive stress to the reader. For instance:
 
