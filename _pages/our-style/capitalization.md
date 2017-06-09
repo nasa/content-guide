@@ -42,10 +42,10 @@ See also: information about [optimizing headings](../headings-and-titles/).
 
 ## NASA's frequently used words 
 
-For a listing of NASA's frequently used words that should or should not be capitalized, please refer to the excerpt taken from the NASA Procedural Requirements NPR 1450.10, Appendix H. [Capitalization](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
+For a listing of NASA's frequently used words that should or should not be capitalized, please refer to the excerpt taken from the NASA Procedural Requirements (NPR) 1450.10, Appendix H. [Capitalization](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
 
 **Please note**:
-The NPR refers to NASA’s “Government” style, which we do not follow 100% for communication products or platforms, such as for a Glenn website.  If you come across a difference, always go with the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx) recommendation. Two examples include the words "agency" and "center."
+The NPR refers to NASA’s “Government” style, which we do not follow 100% for communication products or platforms, such as for a Glenn website.  If you come across a difference, always go with the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx) recommendation. Two instances include the words "agency" and "center."
 
 For example, using the NPR style for a written memo, one would write:
 >_The Agency announced the new astronaut candidates for this year._ 
