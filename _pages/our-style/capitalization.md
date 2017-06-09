@@ -50,12 +50,12 @@ The NPR refers to NASA’s “Government” style, which we do not follow 100% f
 For example, using the NPR style for a written memo, one would write:
 >_The Agency announced the new astronaut candidates for this year._ 
 
->_Our goal for the Center is to reach $400,000 for the Combined Federal Campaign._
+>_Our goal for the Center is to reach $425,000 for the Combined Federal Campaign._
 
 But, the same sentence on a Glenn website would be written:
 
->_The agency announced the new astronaut candidates for year._
+>_The agency announced the new astronaut candidates for this year._
 
->_Our goal for the center is to reach $400,000 for the Combined Federal Campaign._
+>_Our goal for the center is to reach $425,000 for the Combined Federal Campaign._
 
 
