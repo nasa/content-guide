@@ -48,13 +48,13 @@ For a listing of NASA's frequently used words that should or should not be capit
 The NPR refers to NASA’s “Government” style, which we do not follow 100% for communication products or platforms, such as for a Glenn website.  If you come across a difference, always go with the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx) recommendation. Two examples include the words "agency" and "center."
 
 For example, using the NPR style for a written memo, one would write:
->_The Agency announced the new astronaut candidates for 2017._ 
+>_The Agency announced the new astronaut candidates for this year._ 
 
 >_Our goal for the Center is to reach $400,000 for the Combined Federal Campaign._
 
 But, the same sentence on a Glenn website would be written:
 
->_The agency announced the new astronaut candidates for 2017._
+>_The agency announced the new astronaut candidates for year._
 
 >_Our goal for the center is to reach $400,000 for the Combined Federal Campaign._
 
