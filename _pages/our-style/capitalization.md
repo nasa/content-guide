@@ -9,6 +9,7 @@ Creating trustworthy internal and external communications relies, to a large ext
 - Do capitalize proper nouns, including names of individuals, places, and agencies. For example:
 
 > _Michelle Stanton, Ohio, Cleveland, The National Aeronautics and Space Administration, NASA's Glenn Research Center, The Social Security Administration_ 
+
 - Do not capitalize _agile,_ unless it is the first word of a sentence
 - Do not capitalize _open source,_ unless it is the first word of a sentence
 - Do not capitalize _federal_ or _government_, unless it is the first word in a sentence
