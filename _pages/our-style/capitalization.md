@@ -7,10 +7,11 @@ Follow a consistent capitalization scheme.
 Creating trustworthy internal and external communications relies, to a large extent, on the content’s consistency. Inconsistent spellings and capitalizations undermine your narrative authority. We follow these capitalization guidelines:
 
 - Do capitalize proper nouns, including names of individuals, places, and agencies
+>_Michelle Stanton, Ohio, Cleveland, The National Aeronautics and Space Administration, NASA's Glenn Research Center, The Social Security Administration_  
 - Do not capitalize _agile,_ unless it is the first word of a sentence
 - Do not capitalize _open source,_ unless it is the first word of a sentence
 - Do not capitalize _federal_ or _government_
-- Do not capitalize _agency_ or _center_ unless used as part of the full name of an agency or center or another proper noun 
+- Do not capitalize the words _agency_ or _center_ unless used as part of the full name of an agency or center or another proper noun 
 
 When you're deciding whether to capitalize noun phrases, keep in mind that in English, title case is often a marker of formality. Using it judiciously can help clarify that you're speaking about a specific, official thing (such as a form, office, or person). Implying formality where it doesn’t belong or exist, can cause cognitive stress to the reader. For instance:
 
