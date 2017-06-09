@@ -58,4 +58,4 @@ But, the same sentence on a Glenn website would be written:
 
 >_Our goal for the center is to reach $425,000 for the Combined Federal Campaign._
 
- If you come across a difference, always go with the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx) recommendation.
+ If you come across a capitalization difference between the NPR and the NASA Stylebook, always go with the [NASA Stylebook](http://communications.nasa.gov/sites/communications.nasa.gov/files/files/NASA%20Stylebook%20Rev%207%20-%20March%202017.docx) recommendation.
