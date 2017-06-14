@@ -45,7 +45,7 @@ See also: information about [optimizing headings](../headings-and-titles/).
 
 ## NASA's frequently used words 
 
-For a listing of NASA's frequently used words that should or should not be capitalized, please refer to the excerpt taken from the NASA Procedural Requirements (NPR) 1450.10, Appendix H. [Capitalization](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
+For a listing of NASA's frequently used words that should or should not be capitalized, please refer to the excerpt taken from the NASA Procedural Requirements (NPR) 1450.10, NASA Correspondence Management and Communications Standards and Style, Appendix H. [Capitalization](https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_1450_010D_&page_name=AppendixH).
 
 **Please note**:
 
