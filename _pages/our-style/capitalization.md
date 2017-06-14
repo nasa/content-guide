@@ -59,7 +59,7 @@ For a NASA Glenn memo, one would write:
 
 >_Our goal for the Center is to reach $425,000 for the Combined Federal Campaign._
 
-But, the same sentence on a Glenn website would be written:
+But, those same sentences on a Glenn website would be written:
 
 >_The agency announced the new astronaut candidates for this year._
 
