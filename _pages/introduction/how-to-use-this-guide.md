@@ -15,7 +15,7 @@ Many resources were used to prepare this guide and special thanks are given to 1
 
 The table of contents is organized by topic sections, or you can search by keyword. We aren’t opposed if you’d like to read this guide from start to finish, of course.
 
-If you have a suggestion or would like to share a comment about this guide, please [contact us](https://github.com/bruffridge/content-guide/issues/new).
+If you have a suggestion or would like to share a comment about this guide, please [contact us](https://github.com/nasa/content-guide/issues/new).
 
 
 ## If you work at another federal agency 

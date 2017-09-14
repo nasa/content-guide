@@ -34,7 +34,7 @@ author:
   url: https://18f.gsa.gov
 
 github:
-  organization: bruffridge
+  organization: nasa
   repository: content-guide
   default_branch: master
 
@@ -156,7 +156,7 @@ navigation:
 repos:
 - name: NASA GRC Content Guide
   description: Main repository
-  url: https://github.com/bruffridge/content-guide
+  url: https://github.com/nasa/content-guide
 
 # google_analytics_ua: UA-48605964-19
 
