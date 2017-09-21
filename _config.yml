@@ -1,6 +1,6 @@
 markdown: kramdown
 title: NASA Glenn Content Guide
-description: How to plan, write, and manage content at NASA GRC.
+description: How to plan, write, and manage content at NASA Glenn.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
