@@ -1,4 +1,4 @@
-## NASA GRC Content Guide
+## NASA Glenn Content Guide
 
 This is the repository for the [NASA GRC Content Guide](https://nasa.github.io/content-guide/). This guide was developed for NASA GRC employees, but we hope it’s a useful reference for anyone. It is a fork of the [18F Content Guide](https://pages.18f.gov/content-guide/)
 
