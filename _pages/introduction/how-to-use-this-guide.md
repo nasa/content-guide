@@ -2,7 +2,7 @@
 title: How to use this guide
 ---
 
-The NASA GRC Content Guide is designed to help web content writers create information that’s easy to understand, find, and access. 
+The NASA Glenn Content Guide is designed to help web content writers create information that’s easy to understand, find, and access. 
 
 Sometimes government websites talk _at_ readers rather than _to_ or _with_ them, which may convey an unfriendly or distant tone. Or the website is written in "governmentese," leaving a reader frustrated or not knowing where they can find more information. 
 As a writer, have you ever wondered, "Do I capitalize that word?" or "How do I write in the active voice?" or similar questions? This guide takes these things into account and also references other styleguides and best practices for you to explore.  
@@ -20,7 +20,7 @@ If you have a suggestion or would like to share a comment about this guide, plea
 
 ## If you work at another federal agency 
 
-As a work of the federal government, the NASA GRC Content Guide is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+As a work of the federal government, the NASA Glenn Content Guide is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 
 ## If you do not work at NASA
