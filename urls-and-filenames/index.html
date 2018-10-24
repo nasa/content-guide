@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>NASA Glenn Content Guide - URLs and filenames</title>
+  <link rel="shortcut icon" type="image/ico" href="/content-guide/favicon.ico" />
+  <link rel="icon" type="image/png" href="/content-guide/favicon.png" />
+
+  <meta name="description" content="Creating URLs">
+
+  <link href='https://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic,300italic,300|Source+Sans+Pro:200,300,300italic,400,400italic,600,600italic,900' rel='stylesheet' type='text/css'>
+
+  <script src="/content-guide/javascripts/jquery-2.1.4.min.js"></script>
+  <script src="/content-guide/javascripts/private-eye.js"></script>
+  <script src="/content-guide/javascripts/anchor.min.js"></script>
+  <script src="/content-guide/javascripts/application.js"></script>
+  <link rel="stylesheet" type="text/css" href="/content-guide/stylesheets/reset.css">
+  <link rel="stylesheet" type="text/css" href="/content-guide/stylesheets/screen.css">
+  <link rel="stylesheet" type="text/css" href="/content-guide/stylesheets/pygments-css-github.css">
+
+  <link rel="canonical" href="/content-guide/urls-and-filenames/">
+
+  <link rel="stylesheet" type="text/css" href="/content-guide/stylesheets/search.css">
+
+</head>
+
+  <body class="no-js layout-article layout-article-urls-and-filenames">
+    <a class="a-skip-to-main" href="#main">Skip to main content</a>
+    <header class="site-header">
+  <div class="wrapper">
+    <h1 class="logo"><a href="/content-guide/">NASA Glenn Content Guide</a></h1>
+    <div class="search-interface">
+  <form action="/content-guide/search/">
+    <div class="field">
+      <label>
+        <input type="search" id="search-input" name="q"
+         placeholder="Search">
+      </label>
+    </div>
+    <button type="submit">Search</button>
+  </form>
+</div>
+
+  </div>
+</header>
+
+    <nav class="nav-main">
+  <div class="wrapper">
+    <ol class="breadcrumbs">
+    <li><a href="/content-guide/content-types/">Content types</a></li>
+    <li>URLs and filenames</li>
+    
+    </div>
+  </div>
+</nav>
+
+    <main class="article" role="main" id="main">
+      <div class="page">
+        <div class="wrapper">
+          <h1 class="page-title">URLs and filenames</h1>
+          <h2 id="creating-urls">Creating URLs</h2>
+
+<p>URLs should be short, memorable, easy to type, and well-structured.
+Your control over your URL may be limited, but you should do what you can
+with the pieces you can control.</p>
+
+<p>In the vast majority of cases, everything a user can reach on your site
+should have a distinct URL that a user can bookmark and use later to
+reach that same location.</p>
+
+<p>When creating URLs, use dashes to separate words, omit articles
+(a/an/the), use the stems of verbs (<code class="highlighter-rouge">/make-thing/</code> rather than
+<code class="highlighter-rouge">/making-thing/</code>), and avoid extraneous terms.</p>
+
+<h3 id="domains">Domains</h3>
+
+<p>Domains should reflect the user’s needs and not those of the
+organization. If your department is several layers deep in terms of
+bureaucratic structure, it’s unlikely that this is important to users,
+and there is likely minimal cost associated with using a more shallow
+domain.</p>
+
+<p>It’s not necessary to have <code class="highlighter-rouge">www.</code> at the start of a domain. This is a
+holdover from the early internet. Any domain that has a <code class="highlighter-rouge">www</code> level
+should also work if that level is omitted.</p>
+
+<p>Domains should not be more than three levels deep in most cases:
+<code class="highlighter-rouge">18f.gsa.gov</code> is fine, but <code class="highlighter-rouge">content-guide.guides.18f.gsa.gov</code> would not
+be. It’s rare that more than four levels is justifiable.</p>
+
+<p>At the same time, it’s not necessary to have a two-level domain for
+everything.</p>
+
+<p>Domain names should be short, using abbreviations unless those are
+likely to be meaningless to users.</p>
+
+<p>If a domain level has more than one word, you should strongly consider
+separating the words with dashes to make sure users read them the way
+you intend. If 18F had a project called EARS that for some reason needed
+a two-level domain, that domain should be <code class="highlighter-rouge">18f-ears.gov</code> and not
+<code class="highlighter-rouge">18fears.gov</code> (<code class="highlighter-rouge">ears.18f.gov</code> would probably be the ideal).</p>
+
+<p>Domains are case-insensitive. They should be written as lowercase.</p>
+
+<h3 id="paths">Paths</h3>
+
+<p>Again, the shorter the better, but long paths are more excusable than
+long domains.</p>
+
+<p>Paths are typically understood as hierarchies that become increasingly
+specific: <code class="highlighter-rouge">/content-guide/urls-and-filenames/</code> reflects that
+urls-and-filenames is part of content-guide. If this were a much larger
+guide, it’s possible that it could be divided further, for example
+<code class="highlighter-rouge">/content-guide/urls-and-filenames/creating-urls/</code>.</p>
+
+<p>Each level of a path should make it possible to find the content beneath
+it:</p>
+
+<ul>
+  <li>The content at the root level should reflect that <code class="highlighter-rouge">/content-guide/</code>
+is present.</li>
+  <li><code class="highlighter-rouge">/content-guide/</code> should make it easy to find <code class="highlighter-rouge">urls-and-filenames/</code>.</li>
+</ul>
+
+<p>Conversely, the user should be able to remove a level from the path and
+end up at the parent of the original content.</p>
+
+<p>Paths should be designed to be sensible for the user, not to reflect
+internal technical or bureaucratic structure. For example, filename
+extensions like <code class="highlighter-rouge">.php</code> should be avoided as they reflect the internal
+technology used on the server (and will not reflect even that if the
+site later changes to a different technology).</p>
+
+<p>When separating words in a path, use hyphens. Hyphens are commonly
+understood by search engines to indicate word breaks (whereas other
+separators, like underscores, are not).</p>
+
+<p>Paths are case-sensitive. They should be lowercase, regardless of what
+they contain, as uppercase letters make them more difficult to type (and
+to remember).</p>
+
+<h3 id="examples">Examples</h3>
+
+<h4 id="domain-names">Domain names</h4>
+
+<ul>
+  <li><strong>Starting point</strong>:
+<code class="highlighter-rouge">www.longnamecreationservice.departmentoflongnames.bureauofnames.gov</code>.</li>
+  <li>
+    <p><strong>Slight improvement</strong>:
+<code class="highlighter-rouge">longnamecreationservice.departmentoflongnames.bureauofnames.gov</code>.</p>
+
+    <p><strong>Rationale</strong>: <code class="highlighter-rouge">www</code> is unnecessary and omitting it makes the URL easier to type.</p>
+  </li>
+  <li>
+    <p><strong>Very slight improvement</strong>:
+<code class="highlighter-rouge">long-name-creation-service.departmentoflongnames.bureauofnames.gov</code>.</p>
+
+    <p><strong>Rationale</strong>: Hyphens make the URL easier to read. The same would
+be true for the other levels of the domain, but we’re assuming you
+don’t have control over those in these examples.</p>
+  </li>
+  <li>
+    <p><strong>Improvement</strong>: <code class="highlighter-rouge">long-name-creation-service.bureauofnames.gov</code>.</p>
+
+    <p><strong>Rationale</strong>: The user doesn’t need the URL to reflect that the
+service belongs to the Department of Long Names.</p>
+  </li>
+  <li>
+    <p><strong>Better</strong>: <code class="highlighter-rouge">lncs.bureauofnames.gov</code>.</p>
+
+    <p><strong>Rationale</strong>: This is shorter and easier to type. However, it
+relies on users thinking of the service by that abbreviation.</p>
+  </li>
+  <li>
+    <p><strong>Better</strong>: <code class="highlighter-rouge">make-long-names.bureauofnames.gov</code>.</p>
+
+    <p><strong>Rationale</strong>: If the users aren’t familiar with that abbreviation,
+a shorter description of what the service does is better to have as
+the lowest level of the domain.</p>
+  </li>
+</ul>
+
+<h4 id="paths-1">Paths</h4>
+
+<ul>
+  <li><strong>Starting point</strong>:
+<code class="highlighter-rouge">/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php?action=create</code>.</li>
+  <li>
+    <p><strong>Slight improvement</strong>:
+<code class="highlighter-rouge">/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php</code>.</p>
+
+    <p><strong>Rationale</strong>: Assuming that creation is the most likely action
+users will want to take, make it the default and strip the
+requirement for the query string.</p>
+  </li>
+  <li>
+    <p><strong>Slight improvement</strong>:
+<code class="highlighter-rouge">/services/default/php/forms/departmentoflongnames/longnamecreationservice/</code>.</p>
+
+    <p><strong>Rationale</strong>: The default page should be delivered automatically,
+making the inclusion of <code class="highlighter-rouge">index.php</code> unnecessary. Also, hide the
+technical details (<code class="highlighter-rouge">.php</code>).</p>
+  </li>
+  <li>
+    <p><strong>Improvement</strong>: <code class="highlighter-rouge">/departmentoflongnames/longnamecreationservice/</code>.</p>
+
+    <p><strong>Rationale</strong>: Users don’t need to know the technical setup of
+the site.</p>
+  </li>
+  <li>
+    <p><strong>Improvement</strong>:
+<code class="highlighter-rouge">/department-of-long-names/long-name-creation-service/</code>.</p>
+
+    <p><strong>Rationale</strong>: Words should be separated with hyphens.</p>
+  </li>
+  <li>
+    <p><strong>Better</strong>: <code class="highlighter-rouge">/department-of-long-names/lncs/</code>.</p>
+
+    <p><strong>Rationale</strong>: As above, if the users are familiar with the
+abbreviation, use it to make the path shorter.</p>
+  </li>
+  <li>
+    <p><strong>Better</strong>: <code class="highlighter-rouge">/department-of-long-names/make-long-names/</code>.</p>
+
+    <p><strong>Rationale</strong>: As above, if they aren’t familiar with the
+abbreviation, use a shorter description of what the server does.</p>
+  </li>
+</ul>
+
+<h4 id="both">Both</h4>
+
+<ul>
+  <li><strong>Starting point</strong>:
+<code class="highlighter-rouge">www.longnamecreationservice.departmentoflongnames.bureauofnames.gov/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php?action=create</code>.</li>
+  <li>
+    <p><strong>Improvement</strong>:
+<code class="highlighter-rouge">make-long-names.bureauofnames.gov/department-of-long-names/make-long-names/</code>.</p>
+
+    <p><strong>Rationale</strong>: This combines the suggestions from the previous
+two sections.</p>
+  </li>
+  <li>
+    <p><strong>Better</strong>: <code class="highlighter-rouge">make-long-names.bureauofnames.gov</code>.</p>
+
+    <p><strong>Rationale</strong>: This is reasonable if the Department of Long Names
+has only a couple of services that might be popular enough to
+warrant their own subdomains, particularly if they don’t necessarily
+fit cleanly into other content and stand alone.</p>
+  </li>
+  <li>
+    <p><strong>Better</strong>: <code class="highlighter-rouge">bureauofnames.gov/department-of-long-names/make-long-names/</code>.</p>
+
+    <p><strong>Rationale</strong>: This is reasonable if the Long Name Creation Service is
+one of many related services that the Department of Long Names provides.</p>
+  </li>
+</ul>
+
+<h2 id="maintaining-urls">Maintaining URLs</h2>
+
+<p>Users constantly bookmark and share web pages, making the maintenance of
+permanent and long-lasting URLs an important piece of content management.
+Broken links obscure the internet landscape.</p>
+
+<p>URLs should never stop working.</p>
+
+<p>This is not as technically challenging as it sounds. If the domain — the
+high-level domain, not subdomains — is lost, the URLs will be lost, but
+otherwise it’s entirely possible to keep them working. Planning for them
+to continue working is the first step in any process that involves new
+URLs.</p>
+
+<p>Whenever possible, maintain original URLs.
+In all other cases, set up a redirect for outdated URLs and links;
+this is almost always a painless task for web managers. There are a variety
+of ways to accomplish this, some of them requiring more
+technical work than others. It’s most difficult to accomplish when
+moving from URLs that include query parameters, as some early website
+systems did. Sensibly-constructed URLs are easier to migrate.</p>
+
+<p>Some examples:</p>
+
+<h3 id="changing-subdomains">Changing subdomains</h3>
+
+<p>If the agency 18F changed their name from 18F to 19G, they would change their domain, so
+the new name for their page would be located at
+<code class="highlighter-rouge">https://pages.19g.gov/content-guide/urls-and-filenames/</code>. They would keep
+the <code class="highlighter-rouge">18f.gov</code> domain running, but it would redirect
+everything to <code class="highlighter-rouge">19g.gov</code>. Users who entered the old URL would be
+redirected and might not notice the URL change.</p>
+
+<p>If they decide to eliminate the pages subdomain and put this directly on
+<code class="highlighter-rouge">18f.gov</code>, they would do essentially the same thing, keeping this
+subdomain and adding a rule to redirect to the same path on <code class="highlighter-rouge">18f.gov</code>.</p>
+
+<h3 id="changing-paths">Changing paths</h3>
+
+<p>If, for example, 18F produces lots of content in the future, it might become
+sensible to change the path to reflect this, and they might want to have a
+guides level, so that the new URL for this page would be:
+<code class="highlighter-rouge">https://pages.18f.gov/guides/content-guide/urls-and-filenames/</code>. In
+this case, they would add a rule that redirects everything starting with
+<code class="highlighter-rouge">/content-guide/</code> to <code class="highlighter-rouge">/guides/content-guide/</code>.</p>
+
+<p>This also means that URLs, and parts of URLs, should not be re-used.
+Once <code class="highlighter-rouge">/content-guide/</code> is used to refer to the guide, they can no longer
+use <code class="highlighter-rouge">/content-guide/</code> as the location for something
+else in the future, even if they later change the URL for their guide.</p>
+
+<h2 id="creating-filenames">Creating filenames</h2>
+
+<p>Use hyphens to separate words, just as with URLs.</p>
+
+<p>Lowercase is better, because it’s easier to type and to remember.</p>
+
+<p>Use the right extension — PDFs should have <code class="highlighter-rouge">.pdf</code> at the end, JPGs
+should have <code class="highlighter-rouge">.jpg</code> at the end, etc.</p>
+
+<p>Shorter is better, but the content should be descriptive to the user,
+and it’s better to have long descriptive filenames than short obscure
+ones. <code class="highlighter-rouge">summary-of-pay-gap-findings.pdf</code> is better than <code class="highlighter-rouge">paygap.pdf</code> or
+<code class="highlighter-rouge">smmrypgpfnds.pdf</code>.</p>
+
+<p>If the file content is based on a date or time, include that; the 1998
+report for an organization should have <code class="highlighter-rouge">1998</code> in the filename, a
+February issue of a magazine should have the year and the month, and a
+PDF of a daily newspaper should have year, month, and date. When
+including dates, use the <code class="highlighter-rouge">YYYY-MM-DD</code> format, i.e. <code class="highlighter-rouge">2015-10-13</code>.</p>
+
+<p>Avoid the use of special characters beyond the hyphen and period, unless
+absolutely necessary. Do not include spaces (use hyphens in their
+place).</p>
+
+<h2 id="presenting-urls-and-filenames-in-text">Presenting URLs and filenames in text</h2>
+
+<p>Whether beginning with the protocol or not, always lowercase URLs in
+text. Paths are case-sensitive, however, so their casing must be
+preserved.</p>
+
+<p>In interactive contexts, particularly web pages, URLs (except when used
+as examples, as throughout this document) should always be active links.
+When they’re active links, do not include the protocol in the link text.</p>
+
+<p>In non-interactive contexts, such as print, the protocol can be omitted,
+assuming <code class="highlighter-rouge">http://</code> and <code class="highlighter-rouge">https://</code> both work and bring the user to the
+same place.</p>
+
+<p>There are occasions where URLs should be delimited; use <code class="highlighter-rouge">&lt;</code> and <code class="highlighter-rouge">&gt;</code> for
+this. This is not normally necessary in interactive contexts where the
+link is clearly defined, but is most often relevant in email, where the
+writer may have to guess at what their email program will turn into a
+link. This is particularly true when URL contains spaces.</p>
+
+<p>Filenames are case-sensitive, and their case should be preserved when
+they are referred to in text; do not capitalize if beginning a sentence
+with a filename that begins with a lowercase letter. Filenames may need
+to be delimited in the same way as URLs.</p>
+
+<h3 id="examples-1">Examples</h3>
+
+<p>Capitalization on a web page:</p>
+
+<blockquote>
+  <p><a href="https://gsa.gov">gsa.gov</a> is the General Services Administration
+site.</p>
+</blockquote>
+
+<p>Capitalization in print:</p>
+
+<blockquote>
+  <p>gsa.gov is the General Services Administration site.</p>
+</blockquote>
+
+<p>Delimiting an awkward URL in email:</p>
+
+<blockquote>
+  <p>When you get the chance, could you redirect &lt;example.com/spaces in
+URLs are bad/&gt; to &lt;example.com/spaces-in-urls-are-bad/&gt;, as
+per our guidelines, and make the latter the definitive URL for the
+page?</p>
+</blockquote>
+
+<h3 id="url-structure">URL Structure</h3>
+
+<ol>
+  <li><strong>The protocol.</strong> For example <code class="highlighter-rouge">https://</code>, <code class="highlighter-rouge">http://</code>, or <code class="highlighter-rouge">ftp://</code>.
+The <code class="highlighter-rouge">://</code> is always present.</li>
+  <li><strong>The domain.</strong> For example <code class="highlighter-rouge">18f.gsa.gov</code>. This is “where on the
+internet” the URL is referring to. Also called:
+    <ul>
+      <li>site</li>
+      <li>domain name</li>
+      <li>server</li>
+    </ul>
+  </li>
+  <li><strong>Optional: the port.</strong> A number specifying how to access the
+content on this particular domain. Not normally used on
+production sites. Follows the domain, separated by a colon, for
+example <code class="highlighter-rouge">http://dev.example.com:8080</code>.</li>
+  <li><strong>The path:</strong> what resource on the domain the URL is referring to.
+If omitted, defaults to <code class="highlighter-rouge">/</code>, the “root level” of the domain. Always
+starts with a slash, and different levels of resources are separated
+by slashes. For example: <code class="highlighter-rouge">/content-guide/</code> is the path in
+<code class="highlighter-rouge">https://pages.18f.gov/content-guide/</code>.</li>
+  <li><strong>Optional: the query string.</strong> Normally contains parameters that
+have been submitted to the site, for example with searches.
+<code class="highlighter-rouge">?q=18f+content+guide</code> is the query string in
+<code class="highlighter-rouge">https://www.google.com/search?q=18f+content+guide</code>.</li>
+  <li><strong>Optional: the fragment.</strong> Normally this indicates a specific
+section of a page, but can also be used for other things by
+web applications. <code class="highlighter-rouge">#main</code> is the fragment in
+<code class="highlighter-rouge">https://pages.18f.gov/content-guide/specific-words-and-phrases/#main</code>.</li>
+</ol>
+
+<p>The protocol should almost always be <code class="highlighter-rouge">https://</code> unless you’re forced to
+use <code class="highlighter-rouge">http://</code>. Users entering <code class="highlighter-rouge">http://</code> as the protocol should be
+redirected to <code class="highlighter-rouge">https://</code>. If at all possible, your URL should not
+contain a port. Query strings should also be avoided. Fragments can be
+used as a helper for the user, but should not be necessary for the user
+to find the relevant content.</p>
+
+<h2 id="link-text">Link text</h2>
+
+<p>It’s important to remember that users of screen readers will often
+<a href="http://webaim.org/techniques/hypertext/#link_to_link">skip from one link to another</a>, skipping the text in
+between, as a way of “skimming” content.</p>
+
+<p>This ultimately means that link text should be understandable independent of
+the text surrounding it. Avoid link text like <em>click here</em>, <em>here</em>,
+<em>learn more</em>, and so forth whenever possible.</p>
+
+<p>For example, instead of:</p>
+
+<blockquote>
+  <p><a href="https://github.com/18F/code-of-conduct">Click here</a> for more information about our Code of Conduct.</p>
+</blockquote>
+
+<p>Use:</p>
+
+<blockquote>
+  <p>For more information, see the <a href="https://github.com/18F/code-of-conduct">18F Code of Conduct</a>.</p>
+</blockquote>
+
+<p>This has an added benefit of improving search results for sighted users.</p>
+
+<h2 id="screen-reader-only-text">Screen reader-only text</h2>
+
+<p>Screen readers are audio interfaces. Rather than displaying web content visually for users in a “window” or screen on the monitor, screen readers convert text into synthesized speech so that users can listen to the content. A person using a screen reader is referred to as a screen reader user.</p>
+
+<p>In some situations, descriptive links may be overly verbose or redundant for
+sighted users. Here’s an example from the <a href="https://beta.fec.gov/registration-and-reporting/">betaFEC site</a>:</p>
+
+<p><a href="/content-guide/images/betaFEC.png">
+  <img src="/content-guide/images/betaFEC.png" alt="betaFEC screenshot" />
+</a></p>
+
+<p>Here the <em>Learn more</em> link is appropriate for sighted users, but it may be
+confusing to screen reader users. In such situations, it’s possible to add
+<a href="http://webaim.org/techniques/css/invisiblecontent/">invisible text just for screen reader users</a>.  For example, the
+Draft U.S. Web Design Standards has a special CSS class called <code class="highlighter-rouge">usa-sr-only</code>
+for this purpose. Using this class, the aforementioned <em>Learn more</em> link
+might be written in HTML like so:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">”essentials-house-and-senate-candidates-and-committees/”</span><span class="nt">&gt;</span>
+  Learn more
+  <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">”usa-sr-only”</span><span class="nt">&gt;</span>
+    about candidate and candidate committees
+  <span class="nt">&lt;/span&gt;</span>
+<span class="nt">&lt;/a&gt;</span>
+</code></pre>
+</div>
+
+<p>This would keep the link concise for sighted users, while also providing 
+important context for screen reader users.</p>
+
+<p>If you want to use text intended only for screen readers on your project but
+are unfamiliar with CSS, ask your project’s front end developer for help. They
+can create a CSS class for you if one doesn’t already exist. Alternatively,
+reach out to <a href="https://18f.slack.com/archives/g-accessibility">#g-accessibility</a> or <a href="https://18f.slack.com/archives/g-frontend">#g-frontend</a> in Slack!</p>
+
+<h2 id="additional-resources">Additional resources</h2>
+
+<ul>
+  <li><a href="http://webaim.org/techniques/hypertext/">WebAIM: Links and Hypertext</a></li>
+  <li><a href="https://www.w3.org/QA/Tips/noClickHere">W3C: Don’t Use “Click Here” as Link Text</a></li>
+  <li><a href="https://moz.com/blog/click-here-seo">Stop Clicking Here! 7 Superior SEO Alternatives to Generic Links</a></li>
+  <li><a href="https://pages.18f.gov/accessibility/links/">18F Accessibility Guide</a></li>
+</ul>
+
+        </div>
+      </div>
+    </main>
+    <footer class="site-footer">
+  <div class="wrapper">
+    <nav>
+      <a href="/content-guide/nav-tips/" class="button button-nav-tips">Navigation tips</a>
+      
+      <a class="button button-edit" href="https://github.com/nasa/content-guide/edit/master/_pages/content-types/urls-and-filenames.md">Edit this page</a>
+      <a class="button button-issue" href="https://github.com/nasa/content-guide/issues/">File an issue</a>
+    </nav>          
+  </div>
+</footer>
+
+<script>SEARCH_BASEURL = '/content-guide';</script>
+<script async src="/content-guide/assets/js/search-bundle.js"></script>
+
+  </body>
+</html>
